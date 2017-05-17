@@ -1,8 +1,7 @@
 # dataset
-dataset collection for finding
 
-[image](https://github.com/shaoxq/dataset/tree/master/image)
+[image dataset](https://github.com/shaoxq/dataset/tree/master/image)
 
-[video](https://github.com/shaoxq/dataset/tree/master/video)
+[video dataset](https://github.com/shaoxq/dataset/tree/master/video)
 
-[audio](https://github.com/shaoxq/dataset/tree/master/audio)
+[audio dataset](https://github.com/shaoxq/dataset/tree/master/audio)
