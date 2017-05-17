@@ -1,4 +1,5 @@
 # dataset
+[blog](https://github.com/shaoxq/dataset/blog.md)
 
 [image dataset](https://github.com/shaoxq/dataset/tree/master/image)
 
