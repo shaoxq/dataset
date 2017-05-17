@@ -5,5 +5,3 @@
 [video dataset](https://github.com/shaoxq/dataset/tree/master/video)
 
 [audio dataset](https://github.com/shaoxq/dataset/tree/master/audio)
-
-[others dataset](https://github.com/shaoxq/dataset/tree/master/others)
