@@ -23,5 +23,6 @@
 | Labeled Fishes in the Wild | [link](http://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild) | 图像中包含鱼类、无脊椎动物和河床，通过部署在远程操作潜水器上的渔业统计摄像系统拍摄得到的。鱼类位置数据被包括在相应的数据文件中（的.dat，.vec和.info），标注了鱼在图像中的位置。|
 | MIT Places2 | [link](http://places2.csail.mit.edu/index.html) | 包含 1千万张图片，400多个不同类型的场景环境，可用于以场景和环境为应用内容的视觉认知任务。|
 | SUN  | [link](http://vision.princeton.edu/projects/2010/SUN/) | 包括 899个不同场景下的 130519张 场景图像。|
+| SynthText in the Wild Dataset  | [link](http://www.robots.ox.ac.uk/~vgg/data/scenetext/) | The dataset consists of 800 thousand images with approximately 8 million synthetic word instances. Each text instance is annotated with its text-string, word-level and character-level bounding-boxes.|
 
    
